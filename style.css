@@ -1,0 +1,41 @@
+.main_div{
+    margin-top: 100px;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+.acount_details{
+    width: 800px;
+    height: 700px;
+    background-color: aqua;
+    border-radius: 50px;
+}
+h3{
+    padding-top: 50px;
+}
+.bhawna_img_1{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    border: 3px white solid;
+}
+.bhawna_img_2{
+    height: 200px;
+    width: 50px;
+    border-radius: 20px;
+    border: 3px white solid;
+}
+.copyright_footer{
+    position: fixed;
+    color: gray;
+    width: 100%;
+    background-color: lightpink;
+    text-align: center;
+    line-height: 3;
+    bottom: 0;
+
+}
